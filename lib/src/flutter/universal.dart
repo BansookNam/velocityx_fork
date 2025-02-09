@@ -404,7 +404,7 @@ class VxUniversal extends StatelessWidget {
   final ShapeBorder? customBorder;
 
   /// Whether the detected gesture should provide sound and/or haptic feedback, default true
-  final bool? enableFeedback;
+  final bool enableFeedback;
 
   /// focus management
   final FocusNode? focusNode;
